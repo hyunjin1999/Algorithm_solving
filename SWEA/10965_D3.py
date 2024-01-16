@@ -1,5 +1,3 @@
-import math
-
 T = int(input())
 li = []
 ans = ''
